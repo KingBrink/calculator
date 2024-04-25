@@ -5,3 +5,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.iphone{background-color: blueviolet;
+    width: 240px;
+
+
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 20px;
+    border: 3px;
+    margin: 1px;
+}
+button_box{
+    width: 240px;
+    margin-inline: auto;
+    margin-block: 20px;
+
+}
+#display {
+    width: 220px;
+    margin-inline: auto;
+    margin-block: 10px;
+}
+
